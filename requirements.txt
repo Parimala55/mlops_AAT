@@ -1,6 +1,8 @@
-fastapi
-uvicorn
-joblib
-pandas
+streamlit
 scikit-learn
-mlflow
+pandas
+seaborn
+numpy
+joblib
+python-dotenv
+xgboost
